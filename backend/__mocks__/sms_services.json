@@ -1,0 +1,9 @@
+{
+  "status": "success",
+  "services": [
+    {
+      "code": "tg",
+      "name": "telegram"
+    }
+  ]
+}

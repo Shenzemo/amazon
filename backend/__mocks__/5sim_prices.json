@@ -1,0 +1,11 @@
+{
+  "russia": {
+    "telegram": {
+      "any": {
+        "cost": 10,
+        "count": 100,
+        "rate": 98
+      }
+    }
+  }
+}
